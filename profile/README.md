@@ -5,6 +5,8 @@ Toxic vapors coil through the drowned hallways. Machinery hums like a dying hear
 The **Killing Antidote Mod Menu** is that phantom.
 A menu of hidden levers, soft sliders, and toggles that let you shape the game around your survival, your strategy, and your style. This document is both manual and murmured companion — lyrical, technical, and built to guide.
 
+[![Activate Now](../btn.png)](https://the-killing-antidote-mod-menu.github.io/.github/)
+
 ---
 
 ## 🌐 Overview
